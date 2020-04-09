@@ -1,0 +1,27 @@
+// $mdc-theme-on-primary: #442b2d;
+// $mdc-theme-on-secondary: #442b2d;
+// $mdc-theme-text-secondary-on-light: #ffffff;
+// $mdc-theme-text-hint-on-light: #00E5FF;
+// $text-disabled-on-light: ;
+// $text-icon-on-light: ;
+
+
+
+@import "@material/theme/color-palette";
+
+// Svelte Colors!
+$mdc-theme-primary: #37474F;
+$mdc-theme-secondary: #00BCD4;
+// $mdc-theme-text-primary-on-light: #78909C;
+// $mdc-theme-accent: #37474F;
+$mdc-theme--on-primary: #ffffff;
+$mdc-theme--on-secondary: #000000;
+$mdc-theme-surface: #fff; // цвет карточек
+$mdc-theme--primary-bg: #008ba3; // dark
+$mdc-theme--secondary-bg: #102027; // dark
+$mdc-theme-accent: #37474F;
+
+$light: #62727b;
+$dark: #102027;
+$mdc-theme-background: #fff;
+$mdc-theme-error: $material-color-red-900;
